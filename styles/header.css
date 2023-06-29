@@ -43,6 +43,6 @@
     padding: 1em;
 }
 
-.lista__menu-titulo{
-
+.lista__menu-link{
+    color: var(--roxo);
 }
