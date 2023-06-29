@@ -25,6 +25,7 @@
 
 .lista__menu{
     display: none;
+    background-color: var(--branco);
     position: absolute;
     top: 100%;
 }
@@ -35,4 +36,12 @@
 
 .container__botao{
     display: none;
+}
+
+.lista__menu-item{
+
+}
+
+.lista__menu-titulo{
+
 }
