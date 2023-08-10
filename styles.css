@@ -5,12 +5,14 @@
     --branco:#FFFFFF;
     --roxo: #c75eeb;
     --amarelo: #fece2f;
+    --preto: #000;
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Jusefin Sans";
 }
 
 body{
     background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
 }
 
 h1{
